@@ -1,0 +1,13 @@
+# Extensiones de VS Code y archivos de sistema
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Archivos pesados de Ciberseguridad (evitar subidas accidentales)
+*.pcap
+*.mem
+*.raw
+*.vmem
+*.bin
+*.iso
+*.ad1
